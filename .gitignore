@@ -1,0 +1,4 @@
+out/
+*.class
+data/tasks.txt
+data/pomodoro_sessions.txt
